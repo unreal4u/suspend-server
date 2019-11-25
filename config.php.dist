@@ -1,0 +1,5 @@
+<?php
+
+const MQTT_HOST = 'X';
+const MQTT_USERNAME = 'Y';
+const MQTT_PASSWORD = 'Z';

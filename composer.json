@@ -1,0 +1,13 @@
+{
+    "require": {
+        "unreal4u/mqtt": "^1.1",
+        "unreal4u/rpi-common-libraries": "dev-master",
+        "symfony/console": "~4.2",
+        "symfony/lock": "~4.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "unreal4u\\SuspendBigpapa\\": "app"
+        }
+    }
+}
